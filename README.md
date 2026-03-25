@@ -1,4 +1,4 @@
-AAgent Identity Framework
+Agent Identity Framework
 A comprehensive Python framework for managing agent identities, authentication, authorization, and trust in multi-agent systems.
 
 Overview
