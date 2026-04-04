@@ -1,5 +1,5 @@
 Agent Identity Framework
-A comprehensive Python framework for managing agent identities, authentication, authorization, and trust in multi-agent systems.
+A comprehensive Python framework for managing agent identities, authentication, authorization, and trust in multi-agent system
 
 Overview
 This framework provides a complete solution for agent identity management with enterprise-grade security features, compliance support, and intelligent trust scoring.
